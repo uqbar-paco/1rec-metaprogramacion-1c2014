@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40f9c7bf-d01b-499f-ae96-c64826f8f579" name="Default" comment="" />
+    <ignored path="RecuMetaprogramacion.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RecuMetaprogramacion@All_tests_in_spec__RecuMetaprogramacion.coverage" NAME="All tests in spec: RecuMetaprogramacion Coverage Results" MODIFIED="1404663312900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spec" MODULE_NAME="RecuMetaprogramacion" />
+    <SUITE FILE_PATH="coverage/RecuMetaprogramacion@Run_spec__profiler_spec___RecuMetaprogramacion.coverage" NAME="Run spec 'profiler_spec': RecuMetaprogramacion Coverage Results" MODIFIED="1404669692928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RecuMetaprogramacion" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RecuMetaprogramacion" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="174">
+              <caret line="0" column="17" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interceptame_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/interceptame_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.08" vertical-offset="1126" max-vertical-offset="2398">
+              <caret line="65" column="32" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aplicador.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/aplicador.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0796813" vertical-offset="1383" max-vertical-offset="2581">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiler.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/profiler.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.5" vertical-offset="225" max-vertical-offset="1650">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activador.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/activador.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="629">
+              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interceptor.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interceptor.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1450">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basic_object.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/basic_object.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6416" max-vertical-offset="8787">
+              <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="object.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/object.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13352" max-vertical-offset="16962">
+              <caret line="621" column="79" selection-start-line="621" selection-start-column="6" selection-end-line="621" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/src/intercept_behaviour.rb" />
+        <option value="$PROJECT_DIR$/spec/activador_spec.rb" />
+        <option value="$PROJECT_DIR$/spec/profiler_spec.rb" />
+        <option value="$PROJECT_DIR$/src/interceptor.rb" />
+        <option value="$PROJECT_DIR$/src/activador.rb" />
+        <option value="$PROJECT_DIR$/spec/interceptame_spec.rb" />
+        <option value="$PROJECT_DIR$/src/profiler.rb" />
+        <option value="$PROJECT_DIR$/src/aplicador.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="26" />
+    <option name="width" value="1616" />
+    <option name="height" value="882" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecuMetaprogramacion" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="LayoutCode.rearrangeEntriesRuby" value="false" />
+  </component>
+  <component name="RunManager" selected="RSpec.Run spec 'profiler_spec': RecuMetaprogramacion">
+    <configuration default="false" name="Run spec 'profiler_spec': RecuMetaprogramacion" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="RecuMetaprogramacion" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/interceptame_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="All tests in spec: RecuMetaprogramacion" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="RecuMetaprogramacion" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/spec" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$MODULE_DIR$/spec" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'profiler_spec': RecuMetaprogramacion" />
+      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: RecuMetaprogramacion" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'profiler_spec': RecuMetaprogramacion" />
+        <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: RecuMetaprogramacion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40f9c7bf-d01b-499f-ae96-c64826f8f579" name="Default" comment="" />
+      <created>1404594507474</created>
+      <updated>1404594507474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="26" width="1616" height="882" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1097561" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32439336" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="174">
+          <caret line="0" column="17" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13352" max-vertical-offset="16962">
+          <caret line="621" column="79" selection-start-line="621" selection-start-column="6" selection-end-line="621" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs193/basic_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6416" max-vertical-offset="8787">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/interceptame_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.08" vertical-offset="1126" max-vertical-offset="2398">
+          <caret line="65" column="32" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interceptor.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1450">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiler.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.5" vertical-offset="225" max-vertical-offset="1650">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/activador.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="127" max-vertical-offset="629">
+          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aplicador.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0796813" vertical-offset="1383" max-vertical-offset="2581">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
