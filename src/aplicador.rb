@@ -1,3 +1,5 @@
+require_relative 'interceptor'
+
 class Condicion
   def initialize(&bloque)
     @bloque = bloque
